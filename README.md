@@ -1,7 +1,7 @@
-# gui-dlp
+## Gui-dlp
 \_
 
-# YouTube Video Downloader GUI
+## YouTube Video Downloader GUI
 
 A simple and portable YouTube video downloader with a graphical user interface (GUI), built using Python and `yt-dlp`. This tool allows users to download YouTube videos in the best quality available, selecting a destination folder and tracking download progress in real time.
 
