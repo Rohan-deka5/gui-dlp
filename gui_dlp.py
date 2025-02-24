@@ -53,3 +53,4 @@ status_label = tk.Label(app, text="", fg="blue")
 status_label.pack(pady=5)
 
 app.mainloop()
+print("Hello")
