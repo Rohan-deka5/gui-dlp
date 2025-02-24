@@ -43,8 +43,8 @@ pip install yt-dlp
 
 1. Clone the repository:
    ```sh
-   git clone <repo-link>
-   cd <repo-folder>
+   git clone <https://github.com/Rohan-deka5/gui-dlp>
+   cd <gui-dlp>
    ```
 2. Run the script:
    ```sh
